@@ -5,4 +5,4 @@ and highcharter. Interactive visualizations always capture attention and help to
 In our interactive dashboard, we have presented different visualizations like boxplots, stacked bar plot, spline
 chart and leaflet maps with advanced features. The dashboard helps us to give some knowledge about statewide population
 density, statewide median income, statewide math proficiency of 4th-grade students and top 100 schools as well as top 
-100 universities in the United States.
+100 universities in the United States. The shiny app is uploaded on shiny server and link for the app is https://ajayk.shinyapps.io/csi_773/.
