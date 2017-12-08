@@ -1,0 +1,101 @@
+School_Rank,School_Name,City_State,lat,lon,School_Url,University_Rank,University_Name,ulat,ulon,University_Url
+100,Meadow Glens Elementary School,"Naperville, IL",41.745685,-88.107176,https://www.naperville203.org/meadowglens,1,Massachusetts Institute of Technology,42.360091,-71.09416,http://web.mit.edu/
+99,Bellevue High School,"Bellevue, WA",47.604142,-122.198703,http://www.bsd405.org/bhs/,2,Stanford University,37.427475,-122.169719,https://www.stanford.edu/
+98,Village Elementary School,"Syosset, NY",40.821058,-73.497032,http://www.syossetschools.org/schools/village_elementary,3,Harvard University,42.377003,-71.11666,https://www.harvard.edu/
+97,Ps 188 Kingsbury,"Flushing, NY",40.736104,-73.753623,http://schools.nyc.gov/SchoolPortals/26/Q188/default.htm,4,"University of California, Berkeley",37.871899,-122.25854,http://www.berkeley.edu/
+96,Lexington High School,"Lexington, IL",40.645043,-88.780228,http://www.lexington.k12.il.us/,5,University of Washington,47.655335,-122.30352,https://www.washington.edu/
+95,Daves Creek Elementary School,"Cumming, GA",34.136316,-84.142607,https://www.forsyth.k12.ga.us/davescreek,6,Cornell University,42.453449,-76.473503,https://www.cornell.edu/
+94,New Franklin School,"Portsmouth, NH",43.077083,-70.776564,http://www.cityofportsmouth.com/school/newfrank/,7,University of Michigan,42.278044,-83.738224,https://www.umich.edu/
+93,Windsor Park G/T,"Corpus Christi, TX",27.724807,-97.369034,https://windsorpark.ccisd.us/,8,"University of California, Los Angeles",34.068921,-118.445181,http://www.ucla.edu/
+92,Arizona College Prep Oakland Campus,"Chandler, AZ",33.310919,-111.845469,https://www.cusd80.com/domain/1466,9,Columbia University in the City of New York,40.807536,-73.962573,http://www.columbia.edu/
+91,Half Day School,"Lincolnshire, IL",42.198471,-87.934356,http://www.hd.d103.org/,10,University of Wisconsin-Madison,43.076592,-89.412487,https://www.wisc.edu/
+90,Martha & Josh Morriss Math & Engineering El,"Texarkana, TX",33.463697,-94.111204,http://www.txkisd.net/morriss/,11,The University of Texas at Austin,30.284919,-97.734057,https://www.utexas.edu/
+89,Richard E Byrd,"Glen Rock, NJ",40.961811,-74.136552,http://byrd.glenrocknj.org/,12,Purdue University,40.423705,-86.921195,http://www.purdue.edu/
+88,Academy For Excellence Through The Arts (The),"Forest Hills, NY",40.725755,-73.844042,http://schools.nyc.gov/SchoolPortals/28/Q303/default.htm,13,University of Minnesota,44.97399,-93.227729,https://twin-cities.umn.edu/
+87,Irma Rangel Young Womens Leadership Middle,"Dallas, TX",32.773979,-96.760481,https://www.dallasisd.org/rangel,14,Princeton University,40.343989,-74.651448,https://www.princeton.edu/
+86,H W Mountz Elementary School,"Spring Lake, NJ",40.157427,-74.030266,https://www.hwmountz.k12.nj.us/,15,New York University,40.729513,-73.996461,https://www.nyu.edu/
+85,Metairie Academy For Advanced Studies,"Metairie, LA",29.981264,-90.126723,http://metairie.jpschools.org/,16,Penn State University,40.798213,-77.859908,http://www.psu.edu/
+84,Brooklyn School Of Inquiry,"Brooklyn, NY",40.607008,-73.986852,https://brooklynschoolofinquiry.org/,17,University of Illinois at Urbana-Champaign,40.101952,-88.227161,http://illinois.edu/
+83,Westshore Junior/Senior High School,"Melbourne, FL",28.107915,-80.62591,http://www.edline.net/pages/west_shore_jsh,17,University of Pennsylvania,39.952219,-75.193214,https://www.upenn.edu/
+82,Steck Elementary School,"Denver, CO",39.723784,-104.938553,http://steck.dpsk12.org/,19,"University of California, Irvine",33.640495,-117.844296,https://uci.edu/
+81,Wauwatosa Stem,"Wauwatosa, WI",43.043556,-88.012701,http://www.edlinesites.net/pages/Wauwatosa_STEM,20,Yale University,41.316324,-72.922343,https://www.yale.edu/
+80,Alexander Hamilton School,"Glen Rock, NJ",40.951904,-74.130724,https://www.morrisschooldistrict.org/hamilton,21,"University of California, San Diego",32.88006,-117.234013,https://ucsd.edu/
+79,Carver Center,"Midland, TX",31.999851,-102.059332,https://www.midlandisd.net/Domain/334,22,Carnegie Mellon University,40.442808,-79.943013,https://www.cmu.edu/
+78,Hulstrom Options K-8 School,"Northglenn, CO",39.905694,-104.965428,https://hulstrom.adams12.org/,23,University of Southern California,34.022352,-118.285117,https://www.usc.edu/
+77,High Peaks Elementary School,"Boulder, CO",40.004278,-105.243941,http://hpe.bvsd.org/Pages/default.aspx,24,University of Chicago,41.788608,-87.598713,https://www.uchicago.edu/
+76,Lakewood Elementary,"Overland Park, KS",38.863609,-94.660168,https://district.bluevalleyk12.org/schools/elementary/LKE/Pages/home.aspx,25,"University of California, Davis",38.536048,-121.749286,https://www.ucdavis.edu/
+75,Success Academy Charter School-Bed Stuy 2,"Brooklyn, NY",40.696726,-73.947309,http://www.successacademies.org/schools/bed-stuy-2/,26,Michigan State University,42.701848,-84.482172,https://msu.edu/
+74,Knox Gifted Academy,"Chandler, AZ",33.325075,-111.852626,https://www.cusd80.com/knox,27,University of Maryland,38.986918,-76.942554,https://www.umd.edu/
+73,Success Academy Charter School-Bronx 1,"Bronx, NY",40.813666,-73.925921,http://www.successacademies.org/schools/bronx-1/,28,University of Florida,29.643633,-82.35493,http://www.ufl.edu/
+72,Success Academy Charter School-Bronx 3,"Bronx, NY",40.824911,-73.905821,http://www.successacademies.org/schools/bronx-3/,29,Arizona State University,33.419817,-111.931344,https://www.asu.edu/
+71,Success Academy Charter School-Prospect Heights,"Brooklyn, NY",40.673945,-73.951395,http://www.successacademies.org/schools/prospect-heights/,30,Johns Hopkins University,39.329901,-76.620518,https://www.jhu.edu/
+70,Thomas Edison Energysmart Charter School,"Somerset, NJ",40.528094,-74.522326,http://energysmartschool.org/,31,University of North Carolina at Chapel Hill,35.904912,-79.046913,http://www.unc.edu/
+69,Britt David Elementary Computer Academy,"Columbus, GA",32.527334,-84.954811,https://www.schooldigger.com/go/GA/schools/0387001405/school.aspx,32,University of Virginia,38.033553,-78.507977,http://www.virginia.edu/
+68,The Family School,"Albuquerque, NM",35.118358,-106.593639,http://dwfs.aps.edu/,33,University of Colorado Boulder,40.007581,-105.265942,https://www.colorado.edu/
+67,Dr N H Jones Elementary School,"Ocala, FL",28.181399,-82.157508,https://www.marionschools.net/nhj,34,"Rutgers, The State University of New Jersey",40.498196,-74.446796,https://www.rutgers.edu/
+66,Debakey H S For Health Prof,"Houston, TX",29.705223,-95.408167,http://www.houstonisd.org/DeBakey,35,Duke University,36.001426,-78.938229,https://www.duke.edu/
+65,Benjamin Benneker Hs,"Washington, D.C.",38.923686,-77.024004,http://www.benjaminbanneker.org/,36,Texas A&M University,30.618531,-96.336499,https://www.tamu.edu/
+64,Parker Core Knowledge Charter School,"Parker, CO",39.531887,-104.756945,http://www.ckcs.net/,37,University of Arizona,32.231885,-110.950109,http://www.arizona.edu/
+63,Mesa Academy For Advanced Studies,"Mesa, AZ",33.436653,-111.681604,http://www.mpsaz.org/academy,38,Northwestern University,42.056459,-87.675267,http://www.northwestern.edu/
+62,Washington Gifted School,"Peoria, IL",40.732358,-89.56829,https://www.peoriapublicschools.org/washington,39,Boston University,42.3505,-71.105399,http://www.bu.edu/
+61,Success Academy Charter School-Hellês Kitchen,"New York, NY",40.763999,-73.990835,http://www.successacademies.org/schools/hells-kitchen/,39,Indiana University Bloomington,39.176128,-86.513058,https://www.indiana.edu/
+60,Success Academy Charter School-Fort Greene,"Brooklyn, NY",40.696649,-73.976011,http://www.successacademies.org/schools/fort-greene/,41,"University of California, Santa Barbara",34.413963,-119.848947,https://www.ucsb.edu/
+59,Libson Grade School,"Newark, IL",41.478343,-88.482236,http://www.lisbon.k12.il.us/,42,Georgia Institute of Technology,33.775618,-84.396285,http://www.gatech.edu/
+58,Tesla Engineering Charter School,"Appleton, WI",44.246194,-88.373334,http://www4.aasd.k12.wi.us/tesla/,43,North Carolina State University,35.784663,-78.682095,https://www.ncsu.edu/
+57,William B Travis Acad/Vangrd For Academically Tag,"Dallas, TX",32.801668,-96.801442,https://www.dallasisd.org/Domain/606,44,The Ohio State University,40.014191,-83.030914,https://www.osu.edu/
+56,Freedom 7 Elementary School Of International Studi,"Cocoa Beach, FL",28.310128,-80.613232,http://www.edline.net/pages/Freedom7/,45,The University of Utah,40.764937,-111.842102,https://www.utah.edu/
+55,30Th Avenue School,"Astoria, NY",40.768259,-73.922754,http://www.q300.org/,45,University of Pittsburgh,40.444353,-79.960835,http://www.pitt.edu/
+54,Ps 172 Beacon School Of Excellence,"Brooklyn, NY",40.657644,-74.000174,http://schools.nyc.gov/SchoolPortals/15/K172/default.htm,47,California Institute of Technology,34.137658,-118.125269,http://www.caltech.edu/
+53,William B Travis Acdmy/Vngrd For Academically Tag,"Dallas, TX",32.801668,-96.801442,https://www.dallasisd.org/Domain/606,48,Virginia Polytechnic Institute and State University,37.228384,-80.423417,https://vt.edu/
+52,Success Academy Charter School-Upper West,"New York, NY",40.786099,-73.974234,http://www.successacademies.org/schools/upper-west/,48,Oregon State University,44.563781,-123.279444,http://oregonstate.edu/
+51,Tag Young Scholars,"New York, NY",40.792486,-73.941725,http://tagscholars.com/,50,University of Delaware,39.67795,-75.750611,http://www.udel.edu/
+50,Archimedean Middle Conservatory,"Miami, FL",25.701189,-80.394967,https://www.archimedean.org/schools/amc,51,Washington University in St. Louis,38.64879,-90.310796,https://wustl.edu/
+49,Lane Technical High School,"Chicago, IL",41.945477,-87.690778,http://www.lanetech.org/,52,Tufts University,42.407484,-71.119023,https://www.tufts.edu/
+48,East Side Middle School,"New York, NY",40.780646,-73.947544,http://www.esms.org/,53,University of Iowa,41.662696,-91.5549,https://uiowa.edu/
+47,Mount Prospect Elementary School,"Basking Ridge, NJ",40.655281,-74.623575,http://mountprospect.bernardsboe.com/,54,University of Georgia,33.948005,-83.377322,http://www.uga.edu/
+46,Success Academy Charter School-Cobble Hill,"Brooklyn, NY",40.685281,-73.993427,http://www.successacademies.org/schools/cobble-hill/,55,Florida State University,30.441878,-84.298489,https://www.fsu.edu/
+45,Essex Fells Elementary School,"Essex Fells, NJ",40.830214,-74.281524,https://www.efsk-6.org/,56,Georgetown University,38.907609,-77.072258,https://www.georgetown.edu/
+44,Princeton Charter School,"Princeton, NJ",40.369521,-74.657045,http://pcs.k12.nj.us/,57,Iowa State University of Science and Technology,42.026619,-93.646465,https://www.iastate.edu/
+43,New Explorations Into Science Tech And Math High Sc,"New York, NY",40.719167,-73.979722,https://nestmk12.net/,58,University of Oregon,44.04483,-123.072606,https://uoregon.edu/
+42,Madison Street Academy Of Visual And Performing Arts,"Ocala, FL",29.190769,-82.151428,https://www.marionschools.net/mse,59,Brown University,41.826772,-71.402548,https://www.brown.edu/
+41,Washington Academy,"Rockford, IL",42.254079,-89.112017,https://www.district100.com/washington-home,60,University of Massachusetts Amherst,42.391157,-72.526712,https://www.umass.edu/
+40,Kittredge Magnet School,"Brookhaven, GA",33.91522,-84.32017,http://kittredgees.dekalb.k12.ga.us/,61,"University of California, Santa Cruz",36.991386,-122.060872,https://www.ucsc.edu/
+39,Mendham Township Middle School,"Brookside, NJ",40.802125,-74.552408,https://www.mendhamtwp.org/,62,University of Nebraska-Lincoln,40.820197,-96.700476,https://www.unl.edu/
+38,Thurgood Marshall School,"Rockford, IL",42.327675,-89.101598,http://www3.rps205.com/Schools/AS/Thurgood/Pages/default.aspx,63,Colorado State University,40.573436,-105.086547,https://www.colostate.edu/
+37,Success Academy Charter School-Union Square,"New York, NY",40.735324,-73.987081,http://www.successacademies.org/schools/union-square/,64,Vanderbilt University,36.144703,-86.802655,https://www.vanderbilt.edu/
+36,Is 187 Christa Mcauliffe School,"Brooklyn, NY",40.627847,-74.004003,http://www.edline.net/pages/is187,65,Georgia State University,33.753068,-84.385282,http://www.gsu.edu/
+35,The Connect Charter School,"Pueblo, CO",38.273296,-104.606602,https://www.connectschool.org/,66,George Washington University,38.899715,-77.048599,https://www.gwu.edu/
+34,Infinity Institute,"Jersey City, NJ",40.696339,-74.094138,http://www.jcboe.org/boe2015/index.php?option=com_content&view=article&id=428&Itemid=1044,67,Brigham Young University,40.251844,-111.649316,https://www.byu.edu/
+33,Concourse Village Elementary School,"Bronx, NY",40.823134,-73.923099,http://schools.nyc.gov/SchoolPortals/07/X359/default.htm,68,University of South Florida,28.058703,-82.413854,http://www.usf.edu/
+32,Baccalaureate School For Global Education,"Long Island City, NJ",40.755157,-73.926974,http://www.bsge.org/,69,"University at Buffalo, State University of New York",43.000809,-78.78897,http://www.buffalo.edu/
+31,Aurora Quest K-8,"Aurora, CO",39.720405,-104.786843,http://quest.aurorak12.org/,70,University of Notre Dame,41.705572,-86.235339,https://www.nd.edu/
+30,Anderson School,"New York, NY",40.780933,-73.977723,http://www.ps334school.org/,71,Dartmouth College,43.704441,-72.288694,http://home.dartmouth.edu/
+29,Doral Academy Of Technology,"Doral, FL",25.797953,-80.37517,http://www.doralacademyprep.org/apps/pages/index.jsp?uREC_ID=184268&type=d,72,George Mason University,38.831554,-77.312089,https://www2.gmu.edu/
+28,Ps 77 Lower Lab School,"New York, NY",40.785014,-73.950031,https://ps77lowerlab.org/,73,Washington State University,46.731923,-117.154212,https://wsu.edu/
+27,Okaloosa Stemm Center,"Valparaiso, FL",30.512313,-86.502158,http://www.okaloosaschools.com/stemm/,74,Emory University,33.79252,-84.323999,http://www.emory.edu/home/index.html
+26,Jacksonville Beach Elementary School,"Jacksonville Beach, FL",30.283882,-81.40026,https://dcps.duvalschools.org/jbe,75,Rice University,29.717394,-95.401831,http://www.rice.edu/
+25,Charter School Of Wilmington,"Wilmington, DE",39.753805,-75.587793,http://charterschool.org/,76,"University of California, San Francisco",37.763133,-122.457549,https://www.ucsf.edu/
+24,Mcdade Elem Classical School,"Chicago, IL",41.73435,-87.618108,http://www.mcdadeclassical.org/,77,University of Houston,29.719949,-95.342233,http://www.uh.edu/
+23,Success Academy Charter School-Bedford Stuyvesant,"Brooklyn, NY",40.696726,-73.947309,http://www.successacademies.org/schools/bed-stuy-1/,78,"University of California, Riverside",33.973706,-117.328064,http://www.ucr.edu/
+22,Bear Creek Elementary School,"Boulder, CO",39.980417,-105.263094,https://www.lewispalmer.org/Domain/11,79,University of Rochester,43.130553,-77.626003,https://www.rochester.edu/
+21,Gwinnett School Of Mathematics- Science And Technology,"Lawrenceville, GA",33.95302,-84.060184,http://www.gsmst.org/,80,University of Kentucky,38.030651,-84.50397,http://www.uky.edu/UKHome/
+20,Edison Elem Regional Gifted Cntr,"Chicago, IL",41.971158,-87.709588,http://www.edisongifted.com/,81,University of Illinois at Chicago,41.87045,-87.667485,https://www.uic.edu/
+19,Young Magnet High School,"Chicago, IL",41.878271,-87.663584,http://www.wyoung.org/,82,University of Missouri,38.940381,-92.327738,http://missouri.edu/
+18,Sweetwater Elementary School,"Devils Lake, ND",48.121163,-98.863709,http://www.edlinesites.net/pages/Sweetwater_Elementary,83,University of Kansas,38.954344,-95.255796,https://www.ku.edu/
+17,Challenge School,"Denver, CO",39.697757,-104.876566,http://challenge.cherrycreekschools.org/Pages/default.aspx,84,University of Connecticut,41.807741,-72.253981,https://uconn.edu/
+16,Signature School Inc,"Evansville, IN",37.97299,-87.568655,https://signature.edu/,85,University of Central Florida,28.602427,-81.20006,https://www.ucf.edu/
+15,Dennison Elementary School,"Lakewood, CO",39.721604,-105.10607,http://www.dennisonblueribbon.com/,86,Rochester Institute of Technology,43.086102,-77.670514,https://www.rit.edu/
+14,Academy For Science And Design Charter,"Nashua, NH",42.790486,-71.523826,http://www.asdnh.org/,87,"The University of Tennessee, Knoxville",35.954401,-83.929456,https://www.utk.edu/
+13,Success Academy Charter School-Crown Heights,"Brooklyn, NY",40.665905,-73.9492,http://www.successacademies.org/schools/crown-heights/,88,Rensselaer Polytechnic Institute,42.730172,-73.678803,http://www.rpi.edu/
+12,Middlesex County Voc Acad Allied Health & Bio Medic,"Woodbridge, NJ",40.540671,-74.278318,https://www.mcvts.net/woodbridge,89,Temple University,39.981194,-75.155351,https://www.temple.edu/
+11,Decatur Classical Elementary School,"Chicago, IL",42.009545,-87.704957,http://decaturclassical.org/,90,University of New Mexico,35.084319,-106.619781,https://www.unm.edu/
+10,Skinner North Elem Sch,"Chicago, IL",41.905192,-87.645296,http://www.skinnernorth.org/,91,Drexel University,39.956613,-75.189944,http://drexel.edu/
+9,Odyssey-Magellan,Appleton. WI,44.281311,-88.427965,http://www.odysseymagellan.org/,92,San Diego State University,32.774731,-117.069387,https://www.sdsu.edu/
+8,Iles Elem School,"Springfield, IL",39.783623,-89.634637,http://www.sps186.org/schools/iles/,93,University of Miami,25.719169,-80.277125,https://welcome.miami.edu/
+7,Keller Elem Gifted Magnet School,"Chicago, IL",41.697484,-87.69694,http://www.keller.cps.edu/,94,Boston College,42.335549,-71.168495,https://www.bc.edu/
+6,Leonardo Da Vinci School For Gifted Learners,"Green Bay, WI",44.511097,-88.010415,http://davinci.gbaps.org/,95,University of North Texas,33.207488,-97.152586,https://www.unt.edu/
+5,Payton College Preparatory Hs,"Chicago, IL",41.901666,-87.635232,http://www.wpcp.org/,96,The University of Oklahoma,35.205894,-97.445714,http://www.ou.edu/
+4,Polaris At Ebert Elementary School,"Denver, CO",39.749829,-104.981824,http://polarisprogram.dpsk12.org/,97,Louisiana State University,30.413258,-91.180002,http://www.lsu.edu/
+3,Mercer Island High School,"Mercer Island, WA",47.571954,-122.218103,https://www.mercerislandschools.org/mihs,98,University of Cincinnati,39.132922,-84.51495,http://www.uc.edu/
+2,School 28,"Paterson, NJ",40.923081,-74.172608,https://ps28-pps-nj.schoolloop.com/,99,University of South Carolina,33.996112,-81.027428,http://www.sc.edu/
+1,Middlesex County Voc Academy Math Science & Enginee,"Edison, NJ",40.504556,-74.36955,https://www.mcvts.net/edison,100,University of Vermont,44.477853,-73.196464,https://www.uvm.edu/
